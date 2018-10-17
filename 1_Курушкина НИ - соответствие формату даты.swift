@@ -1,6 +1,6 @@
 import Foundation
 import Swift
-
+//2
 class TaskOne {
 	var result = false
 	var mdate = ""
